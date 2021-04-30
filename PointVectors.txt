@@ -1,0 +1,8 @@
+p = World.CreatePed(new Model("U_M_Y_Zombie_01"), new Vector3(-290.808f, 2853.063f, 53.99591f), 146.7446f);
+p.Alpha = 60; p.CanBeTargetted = false; p.FreezePosition = true; p.BlockPermanentEvents = true;
+m_ZombiePeds.Add(p);
+
+p = World.CreatePed(new Model("U_M_Y_Zombie_01"), new Vector3(-287.0506f, 2851.151f, 53.92916f), 146.0109f);
+p.Alpha = 60; p.CanBeTargetted = false; p.FreezePosition = true; p.BlockPermanentEvents = true;
+m_ZombiePeds.Add(p);
+

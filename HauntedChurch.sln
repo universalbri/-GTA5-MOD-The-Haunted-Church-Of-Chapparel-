@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HauntedChurch", "HauntedChurch.csproj", "{A717AD5D-C5B5-4769-BD40-F14C09F26901}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A717AD5D-C5B5-4769-BD40-F14C09F26901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A717AD5D-C5B5-4769-BD40-F14C09F26901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A717AD5D-C5B5-4769-BD40-F14C09F26901}.Debug|x64.ActiveCfg = Debug|x64
+		{A717AD5D-C5B5-4769-BD40-F14C09F26901}.Debug|x64.Build.0 = Debug|x64
+		{A717AD5D-C5B5-4769-BD40-F14C09F26901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A717AD5D-C5B5-4769-BD40-F14C09F26901}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A717AD5D-C5B5-4769-BD40-F14C09F26901}.Release|x64.ActiveCfg = Release|x64
+		{A717AD5D-C5B5-4769-BD40-F14C09F26901}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2AB7366-8F70-4A5C-A3A1-2956AAA82C52}
+	EndGlobalSection
+EndGlobal
